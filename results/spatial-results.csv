@@ -1,0 +1,12 @@
+time,molecule,x,y,state
+0.0000,molecule-0,15.00000000,10.00000000,border
+2.0000,molecule-0,14.50964746,10.42014402,intracellular
+4.0000,molecule-0,14.25267405,9.34963738,intracellular
+6.0000,molecule-0,15.40157779,7.90165196,extracellular
+8.0000,molecule-0,17.32634623,7.02392539,extracellular
+10.0000,molecule-0,16.74100705,6.92788692,extracellular
+12.0000,molecule-0,18.09985610,7.65608267,extracellular
+14.0000,molecule-0,19.93683321,7.05765718,extracellular
+16.0000,molecule-0,19.09276186,10.92533182,extracellular
+18.0000,molecule-0,19.35832520,8.69009271,extracellular
+20.0000,molecule-0,18.17427569,9.65947058,extracellular
