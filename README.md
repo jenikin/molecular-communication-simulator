@@ -116,7 +116,7 @@ Each invocation runs only the selected model. The spatial model uses a fixed ran
 src/main/java/org/molecularcommunication/
   app/                         command-line entry point
   models/concentration/        well-mixed concentration model
-  models/spatial/              spatial molecule movement model
+  models/spatial/              spatial molecule movement model 
 ```
 
 ## Limitations, model assumptions and next work
